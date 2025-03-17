@@ -113,6 +113,7 @@ Where:
 - 3.0% (consistent with long-term inflation plus modest real growth)
 
 Unlevered Free Cash Flow Projections
+
 ![Unlevered FCF](https://github.com/user-attachments/assets/0dfc83a5-a719-4336-9e03-ab6118479848)
 
 # F. DCF Valuation Results
@@ -135,6 +136,7 @@ Unlevered Free Cash Flow Projections
 
 # G. Sensitivity Analysis
 The sensitivity table demonstrates how variations in WACC and terminal growth rate affect Costco's implied share price:
+
 ![Sensitivity Table](https://github.com/user-attachments/assets/acc9898b-033c-406b-b5f7-1b36d5a237c3)
 
 ## Interpretation of Sensitivity Analysis
