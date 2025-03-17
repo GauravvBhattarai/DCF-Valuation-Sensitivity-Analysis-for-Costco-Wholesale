@@ -110,17 +110,11 @@ Where:
 - Resulting WACC: 6.2%
 
 ### Terminal Growth Rate
-•	3.0% (consistent with long-term inflation plus modest real growth)
+- 3.0% (consistent with long-term inflation plus modest real growth)
+
 Unlevered Free Cash Flow Projections
-Fiscal Year	2025E	2026E	2027E	2028E	2029E
-Revenue	215,522	237,074	258,411	276,500	290,324
-EBITDA	9,093	10,003	10,903	11,666	12,249
-EBIT	7,097	7,858	8,599	9,191	9,590
-NOPAT	5,607	6,208	6,793	7,261	7,576
-+ D&A	1,996	2,144	2,304	2,475	2,659
-- CapEx	3,957	4,252	4,568	4,907	5,272
-- Δ in NWC	(244)	(1,090)	(1,125)	(946)	(777)
-Unlevered FCF	3,890	5,191	5,655	5,775	5,740
+![Unlevered FCF](https://github.com/user-attachments/assets/0dfc83a5-a719-4336-9e03-ab6118479848)
+
 
 DCF Valuation Results
 Present Value Calculation
