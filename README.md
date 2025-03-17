@@ -115,51 +115,53 @@ Where:
 Unlevered Free Cash Flow Projections
 ![Unlevered FCF](https://github.com/user-attachments/assets/0dfc83a5-a719-4336-9e03-ab6118479848)
 
+# DCF Valuation Results
+## Present Value Calculation
+- PV of Explicit Forecast Period FCF: $21,753 million
+- Terminal Value: $182,753 million
+- PV of Terminal Value: $135,058 million
+- Enterprise Value: $156,811 million
 
-DCF Valuation Results
-Present Value Calculation
-•	PV of Explicit Forecast Period FCF: $21,753 million
-•	Terminal Value: $182,753 million
-•	PV of Terminal Value: $135,058 million
-•	Enterprise Value: $156,811 million
-Equity Value Calculation
-•	Enterprise Value: $156,811 million
-•	(+) Cash and Cash Equivalents: $11,258 million
-•	(-) Total Debt: $7,491 million
-•	(-) Minority Interest: $514 million
-•	Equity Value: $160,064 million
-Per Share Valuation
-•	Diluted Shares Outstanding: 444.35 million
-•	Implied Share Price: $360.22
-Sensitivity Analysis
+## Equity Value Calculation
+- Enterprise Value: $156,811 million
+- (+) Cash and Cash Equivalents: $11,258 million
+- (-) Total Debt: $7,491 million
+- (-) Minority Interest: $514 million
+- Equity Value: $160,064 million
+
+## Per Share Valuation
+- Diluted Shares Outstanding: 444.35 million
+- Implied Share Price: $360.22
+
+# Sensitivity Analysis
 The sensitivity table demonstrates how variations in WACC and terminal growth rate affect Costco's implied share price:
-WACC/Growth Rate	2.00%	2.50%	3.00%	3.50%	4.00%
-5.24%	373.29	432.80	518.94	654.73	900.43
-5.74%	323.92	366.68	425.08	509.60	642.83
-6.24%	286.20	318.26	360.22	417.53	500.47
-6.74%	256.46	281.27	312.73	353.92	410.16
-7.24%	232.40	252.10	276.46	307.33	347.75
+![Sensitivity Table](https://github.com/user-attachments/assets/acc9898b-033c-406b-b5f7-1b36d5a237c3)
 
-Interpretation of Sensitivity Analysis
-•	WACC Impact: A 1% reduction in WACC (from 6.24% to 5.24%) increases the share price by approximately 44% (from $360.22 to $518.94). Conversely, a 1% increase in WACC decreases the share price by approximately 23% (from $360.22 to $276.46). This demonstrates the significant impact of discount rates on valuation.
-•	Growth Rate Impact: Increasing the terminal growth rate from 3.00% to 4.00% raises the share price by approximately 39% (from $360.22 to $500.47). Reducing it to 2.00% decreases the share price by approximately 20% (from $360.22 to $286.20). This highlights the importance of long-term growth expectations in valuation.
-•	Combined Effects: The highest valuation ($900.43) occurs with the optimistic scenario of lower WACC (5.24%) and higher growth (4.00%), while the lowest valuation ($232.40) results from the conservative scenario of higher WACC (7.24%) and lower growth (2.00%).
-Key Investment Considerations
-Growth Drivers
-1.	E-commerce Expansion: Costco continues to invest in its online capabilities, enhancing its omnichannel presence.
-2.	International Expansion: Significant growth potential exists in markets like China, Japan, and Europe.
-3.	Membership Fee Increases: Historically implemented every 5-6 years, with the next increase potentially occurring in FY2025.
-4.	Private Label Growth: The Kirkland Signature brand continues to gain market share and drive margins.
-Risk Factors
-1.	Competitive Pressure: Increasing competition from Amazon, Walmart, and other warehouse clubs.
-2.	Margin Pressure: Rising labor and transportation costs could impact profitability.
-3.	Economic Sensitivity: Consumer spending patterns may change during economic downturns.
-4.	Supply Chain Disruptions: Global supply chain challenges could impact inventory availability and costs.
-Conclusion
+## Interpretation of Sensitivity Analysis
+- WACC Impact: A 1% reduction in WACC (from 6.24% to 5.24%) increases the share price by approximately 44% (from $360.22 to $518.94). Conversely, a 1% increase in WACC decreases the share price by approximately 23% (from $360.22 to $276.46). This demonstrates the significant impact of discount rates on valuation.
+- Growth Rate Impact: Increasing the terminal growth rate from 3.00% to 4.00% raises the share price by approximately 39% (from $360.22 to $500.47). Reducing it to 2.00% decreases the share price by approximately 20% (from $360.22 to $286.20). This highlights the importance of long-term growth expectations in valuation.
+- Combined Effects: The highest valuation ($900.43) occurs with the optimistic scenario of lower WACC (5.24%) and higher growth (4.00%), while the lowest valuation ($232.40) results from the conservative scenario of higher WACC (7.24%) and lower growth (2.00%).
+
+# Key Investment Considerations
+## Growth Drivers
+1. E-commerce Expansion: Costco continues to invest in its online capabilities, enhancing its omnichannel presence.
+2. International Expansion: Significant growth potential exists in markets like China, Japan, and Europe.
+3. Membership Fee Increases: Historically implemented every 5-6 years, with the next increase potentially occurring in FY2025.
+4. Private Label Growth: The Kirkland Signature brand continues to gain market share and drive margins.
+
+## Risk Factors
+1. Competitive Pressure: Increasing competition from Amazon, Walmart, and other warehouse clubs.
+2. Margin Pressure: Rising labor and transportation costs could impact profitability.
+3. Economic Sensitivity: Consumer spending patterns may change during economic downturns.
+4. Supply Chain Disruptions: Global supply chain challenges could impact inventory availability and costs.
+
+# Conclusion
 Based on our DCF valuation, Costco Wholesale Corporation appears to be trading close to its fair value. The company's strong business model, consistent growth, and efficient operations support a positive long-term outlook. The implied share price of $360.22 represents our base case scenario with a WACC of 6.2% and terminal growth rate of 3.0%.
+
 Costco's competitive advantages, including its membership model, efficient operations, and strong supplier relationships, position it well for continued success. While the company faces challenges from e-commerce competition and potential margin pressures, its track record of adaptation and focus on customer value proposition provide a strong foundation for future growth.
 Investors should monitor key metrics including membership growth and renewal rates, same-store sales trends, and margin developments as indicators of Costco's ongoing performance.
-Data Sources and References
+
+# Data Sources and References
 •	Historical financial data: Company annual reports 
 •	Market data: Bloomberg Terminal (as of October 2024)
 •	Industry trends: National Retail Federation reports
