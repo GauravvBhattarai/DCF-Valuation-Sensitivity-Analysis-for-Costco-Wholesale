@@ -1,10 +1,10 @@
 # DCF-Valuation-Sensitivity-Analysis-for-Costco-Wholesale
 This Valuation Analysis and Future Projections employ the Discounted Cash Flow (DCF) method and Sensitivity analysis for Costco Wholesale Corporation for the 2025 to 2029 period. It includes detailed explanations of all elements, formulas, and interpretations.
 
-## Executive Summary
+## A. Executive Summary
 This analysis presents a Discounted Cash Flow (DCF) valuation of Costco Wholesale Corporation (NASDAQ: COST), a leading global membership warehouse retailer. Using historical financial data from FY2022-2024 and projections through FY2029, Costco's estimated enterprise value is at $156.8 billion and equity value at $160.1 billion. This translates to an implied share price of $360.22, suggesting potential for price appreciation compared to recent trading levels. The valuation is based on a WACC of 6.2% and terminal growth rate of 3.0%, with sensitivity analysis showing a price range of $232.40 to $900.43 depending on variations in these key assumptions.
 
-## Company Overview
+## B. Company Overview
 Costco Wholesale Corporation operates a chain of membership-only big-box retail stores. Founded in 1983 and headquartered in Issaquah, Washington, Costco has grown to become the third-largest retailer globally and the world's largest retailer of choice and prime beef, organic foods, rotisserie chicken, and wine. Their business model revolves around providing members with quality goods and services at the lowest possible prices.
 The company generates revenue primarily through:
 - Merchandise sales (98% of revenue in FY2024)
@@ -12,10 +12,10 @@ The company generates revenue primarily through:
 
 Costco's competitive advantages include its strong membership model with high renewal rates (approximately 90%), efficient inventory management, and strong supplier relationships. The company operates on razor-thin margins by keeping operating costs low and passing savings to customers.
 
-## Valuation Model and Dataset Used
+## C. Valuation Model and Dataset Used
 - <a href="https://github.com/GauravvBhattarai/DCF-Valuation-Sensitivity-Analysis-for-Costco-Wholesale/blob/main/Model%2C%20Calculation%20and%20Data%20Source.xlsx">DCF Model & Sensitivity Analysis</a>
 
-## Historical Financial Performance Analysis
+## D. Historical Financial Performance Analysis
 ### Revenue Growth
 Costco has demonstrated consistent revenue growth:
 - FY2023: 9.2% growth to $166,761 million
@@ -46,7 +46,7 @@ Capital expenditures fluctuated during the historical period:
 
 These investments primarily support new warehouse openings, existing warehouse remodels, and supply chain infrastructure.
 
-## DCF Valuation Methodology
+## E. DCF Valuation Methodology
 The Discounted Cash Flow (DCF) valuation approach involves:
 1. Forecasting Unlevered Free Cash Flows: Projecting future free cash flows for FY2025-2029.
 2. Terminal Value Calculation: Estimating the value beyond the explicit forecast period.
@@ -115,7 +115,7 @@ Where:
 Unlevered Free Cash Flow Projections
 ![Unlevered FCF](https://github.com/user-attachments/assets/0dfc83a5-a719-4336-9e03-ab6118479848)
 
-# DCF Valuation Results
+# F. DCF Valuation Results
 ## Present Value Calculation
 - PV of Explicit Forecast Period FCF: $21,753 million
 - Terminal Value: $182,753 million
@@ -133,7 +133,7 @@ Unlevered Free Cash Flow Projections
 - Diluted Shares Outstanding: 444.35 million
 - Implied Share Price: $360.22
 
-# Sensitivity Analysis
+# G. Sensitivity Analysis
 The sensitivity table demonstrates how variations in WACC and terminal growth rate affect Costco's implied share price:
 ![Sensitivity Table](https://github.com/user-attachments/assets/acc9898b-033c-406b-b5f7-1b36d5a237c3)
 
@@ -142,7 +142,7 @@ The sensitivity table demonstrates how variations in WACC and terminal growth ra
 - Growth Rate Impact: Increasing the terminal growth rate from 3.00% to 4.00% raises the share price by approximately 39% (from $360.22 to $500.47). Reducing it to 2.00% decreases the share price by approximately 20% (from $360.22 to $286.20). This highlights the importance of long-term growth expectations in valuation.
 - Combined Effects: The highest valuation ($900.43) occurs with the optimistic scenario of lower WACC (5.24%) and higher growth (4.00%), while the lowest valuation ($232.40) results from the conservative scenario of higher WACC (7.24%) and lower growth (2.00%).
 
-# Key Investment Considerations
+# H. Key Investment Considerations
 ## Growth Drivers
 1. E-commerce Expansion: Costco continues to invest in its online capabilities, enhancing its omnichannel presence.
 2. International Expansion: Significant growth potential exists in markets like China, Japan, and Europe.
@@ -155,17 +155,17 @@ The sensitivity table demonstrates how variations in WACC and terminal growth ra
 3. Economic Sensitivity: Consumer spending patterns may change during economic downturns.
 4. Supply Chain Disruptions: Global supply chain challenges could impact inventory availability and costs.
 
-# Conclusion
+# I. Conclusion
 Based on our DCF valuation, Costco Wholesale Corporation appears to be trading close to its fair value. The company's strong business model, consistent growth, and efficient operations support a positive long-term outlook. The implied share price of $360.22 represents our base case scenario with a WACC of 6.2% and terminal growth rate of 3.0%.
 
 Costco's competitive advantages, including its membership model, efficient operations, and strong supplier relationships, position it well for continued success. While the company faces challenges from e-commerce competition and potential margin pressures, its track record of adaptation and focus on customer value proposition provide a strong foundation for future growth.
 Investors should monitor key metrics including membership growth and renewal rates, same-store sales trends, and margin developments as indicators of Costco's ongoing performance.
 
-# Data Sources and References
-•	Historical financial data: Company annual reports 
-•	Market data: Bloomberg Terminal (as of October 2024)
-•	Industry trends: National Retail Federation reports
-•	Economic projections: Federal Reserve Economic Data (FRED)
-•	Risk-free rate: U.S. Department of the Treasury
-•	Market risk premium: Damodaran Online Data
-•	Beta: Calculated using regression analysis of Costco's returns against S&P 500
+# J. Data Sources and References
+- Historical financial data: Company annual reports
+- Market data: Bloomberg Terminal (as of October 2024)
+- Industry trends: National Retail Federation reports
+- Economic projections: Federal Reserve Economic Data (FRED)
+- Risk-free rate: U.S. Department of the Treasury
+- Market risk premium: Damodaran Online Data
+- Beta: Calculated using regression analysis of Costco's returns against S&P 500
